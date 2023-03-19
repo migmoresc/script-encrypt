@@ -1,6 +1,7 @@
 # script-encrypt
 Script para encriptar archivos
 
+
 ¿Cómo se usa?
 
 Desde la terminal escribiremos para encriptar los archivos:
@@ -12,9 +13,12 @@ Y para desencriptar:
 	python script-encrypt.py -d micontraseña nombreArchivo1.html nombreArchivo2.html ...
 
 
+
 No acepto pull request / I don't accept pull request
 
+
 CHANGELOG
+
 
 Versión 1.1
 
@@ -27,5 +31,6 @@ Versión 1.0
 
 TO DO
 
-- Encriptar según la extensión del archivo
+- Encriptar según la extensión del archivo.
 - Añadir la lógica para otras extensiones como css, js ...
+- Añadir la opción de usar un fichero que contenga los nombre de los archivos.
